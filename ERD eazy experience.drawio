@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.1.0">
   <diagram name="eazy-experience" id="UruAZfTR8P_PdSHk1XmN">
-    <mxGraphModel dx="3776" dy="1729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4153" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -446,7 +446,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J2rus76PhJCcU5Mlqtr9-28" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="trx_eazy_home" vertex="1">
-          <mxGeometry height="296" width="190" x="-480" y="-90" as="geometry" />
+          <mxGeometry height="296" width="190" x="-440" y="-80" as="geometry" />
         </mxCell>
         <mxCell id="J2rus76PhJCcU5Mlqtr9-36" parent="J2rus76PhJCcU5Mlqtr9-28" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="(pk int) id" vertex="1">
           <mxGeometry height="30" width="190" y="26" as="geometry" />
@@ -476,7 +476,7 @@
           <mxGeometry height="30" width="190" y="266" as="geometry" />
         </mxCell>
         <mxCell id="J2rus76PhJCcU5Mlqtr9-52" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="trx_installment_period" vertex="1">
-          <mxGeometry height="236" width="180" x="-360" y="380" as="geometry" />
+          <mxGeometry height="236" width="180" x="-440" y="412" as="geometry" />
         </mxCell>
         <mxCell id="J2rus76PhJCcU5Mlqtr9-57" parent="J2rus76PhJCcU5Mlqtr9-52" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="(pk bigint) id" vertex="1">
           <mxGeometry height="30" width="180" y="26" as="geometry" />
